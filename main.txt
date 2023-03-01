@@ -8,4 +8,6 @@ main4
 lgz
 main5
 lgz
+<<<<<<< HEAD
 lgz
+main6
