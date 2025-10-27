@@ -1,2 +1,3 @@
 操作git命令
  init
+init
